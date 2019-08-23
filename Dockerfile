@@ -4,4 +4,6 @@ MAINTAINER Widget_An <anchunyu@heywhale.com>
 
 RUN apt update && apt -y upgrade && apt autoremove && apt autoclean
 
-CMD ["/bin/bash", "-c", "tail -f /dev/null"]
+COPY start.sh /
+
+CMD ["/bin/bash", "-c", "/start.sh"]
