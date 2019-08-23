@@ -1,3 +1,3 @@
 #!/bin/bash
 
-tail -f /dev/null
+/bin/bash -c tail -f /dev/null
