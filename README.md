@@ -1,7 +1,7 @@
 # Ubuntu_18.04_Running_Docker
 
 ## Description
-- This project is to create a bash for official [`ubuntu`](https://hub.docker.com/_/ubuntu "Ubuntu18.04") docker image.
+- This project is to create running process for official [`ubuntu`](https://hub.docker.com/_/ubuntu "Ubuntu18.04") docker image.
 - This image has pushed to my [repositories](https://hub.docker.com/r/q421413836/ubuntu18.04 "Dockerhub") on Dockerhub
 
 ## Run Method
